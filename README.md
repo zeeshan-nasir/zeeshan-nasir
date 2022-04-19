@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **zeeeshannasir94@gmail.com**
 
+- 💬 Ask me about **MERN Stack** 
+
 - 📄 Know about my experiences [resume](resume)
 
 <br>
