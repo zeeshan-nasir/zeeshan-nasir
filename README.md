@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Nasir</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 <br>
+<p align="center">Dedicated developer with a keen interest in learning new technology and building user-friendly applications. Eager to tackle web development challenges to achieve a lasting impact on user experience.</p>
 <br>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
