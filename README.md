@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN Stack** 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PttzH8ego1HUMvBkqTqUIvN_uG2JSAm3/view?usp=sharing">Click here</a>(resume)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PttzH8ego1HUMvBkqTqUIvN_uG2JSAm3/view?usp=sharing">Resume</a>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-nasir" /> </p>
