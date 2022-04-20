@@ -3,8 +3,7 @@
 <br>
 <p align="center">Dedicated developer with a keen interest in learning new technology and building user-friendly applications. Eager to tackle web development challenges to achieve a lasting impact on user experience.</p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-nasir" /> </p>
-<br>
+
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -16,6 +15,8 @@
 
 - 📄 Know about my experiences [resume](resume)
 
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-nasir" /> </p>
 <br>
 
 <h3 align="center">Connect with me:</h3>
