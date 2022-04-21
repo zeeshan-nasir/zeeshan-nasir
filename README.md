@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [portfolio](portfolio)
+- 👨‍💻 All of my projects are available at <a href="">portfolio</a>
 
 - 📫 How to reach me **zeeeshannasir94@gmail.com**
 
 - 💬 Ask me about **MERN Stack** 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1PttzH8ego1HUMvBkqTqUIvN_uG2JSAm3/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences at <a href="https://drive.google.com/file/d/1PttzH8ego1HUMvBkqTqUIvN_uG2JSAm3/view?usp=sharing">resume</a>
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="zeeshan-nasir" /> </p>
