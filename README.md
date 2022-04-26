@@ -31,6 +31,8 @@
    <a href="https://www.hackerrank.com/zeeshan_nebula" target="_blank"><img align="center"
          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
          alt="zeeshan_nebula" height="40" width="40" /></a>
+   <a href="https://medium.com/@zeeeshannasir94" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
+         alt="@zeeeshannasir94" height="40" width="40" /></a>
 </p>
 
 
@@ -72,6 +74,7 @@
 
 <br>
 
+<h2 align="center">Github Stats:</h2>
 <p align="center">&nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=zeeshan-nasir&show_icons=true&locale=en"
       alt="zeeshan-nasir" /></p>
