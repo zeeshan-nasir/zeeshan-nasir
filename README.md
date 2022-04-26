@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Nasir</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<br>
-<p align="center">Dedicated developer with a keen interest in learning new technology and building user-friendly
-   applications. Eager to tackle web development challenges to achieve a lasting impact on user experience.</p>
+
 <br>
 
+<p align="center">Dedicated developer with a keen interest in learning new technology and building user-friendly
+   applications. Eager to tackle web development challenges to achieve a lasting impact on user experience.</p>
+   
+<br>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
@@ -18,10 +20,6 @@
    href="https://drive.google.com/file/d/1PttzH8ego1HUMvBkqTqUIvN_uG2JSAm3/view?usp=sharing">resume</a>
 
 <br>
-<p align="center"> <img
-      src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat"
-      alt="zeeshan-nasir" /> </p>
-
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -34,7 +32,6 @@
    <a href="https://medium.com/@zeeeshannasir94" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
          alt="@zeeeshannasir94" height="40" width="40" /></a>
 </p>
-
 
 <br>
 
@@ -75,6 +72,12 @@
 <br>
 
 <h2 align="center">Github Stats:</h2>
+<p align="center"> <img
+      src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat"
+      alt="zeeshan-nasir" /> </p>
+      
+<br>
+
 <p align="center">&nbsp;<img align="center"
       src="https://github-readme-stats.vercel.app/api?username=zeeshan-nasir&show_icons=true&locale=en"
       alt="zeeshan-nasir" /></p>
@@ -83,4 +86,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-nasir&"
       alt="zeeshan-nasir" /></p>
+      
 <br>
