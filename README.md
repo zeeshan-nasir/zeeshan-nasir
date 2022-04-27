@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at <a href="">portfolio</a>
-
 - 📫 How to reach me **zeeeshannasir94@gmail.com**
 
 - 💬 Ask me about **MERN Stack**
