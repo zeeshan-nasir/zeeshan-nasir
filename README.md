@@ -21,6 +21,11 @@
 
 <br>
 
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"
+     alt="javascript"/>
+
+<br>
+
 <h2 align="center">Connect with me:</h2>
 <p align="center">
    <a href="https://linkedin.com/in/zeeshannasir94" target="_blank"><img align="center"
