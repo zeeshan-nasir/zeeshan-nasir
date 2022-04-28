@@ -83,8 +83,8 @@
 <br>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-nasir&show_icons=true&theme=tokyonight" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-nasir&theme=tokyonight" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-nasir&show_icons=true&theme=tokyonight" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-nasir&theme=tokyonight" />
 </div>
 
 <br/>  
