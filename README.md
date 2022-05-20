@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 📫 How to reach me **zeeeshannasir94@gmail.com**
+- 📫 Reach me at **zeeeshannasir94@gmail.com**
 
 - 💬 Ask me about **MERN Stack**
 
