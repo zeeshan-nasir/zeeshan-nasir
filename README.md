@@ -15,7 +15,7 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📄 Know about my experiences at <a
-   href="https://drive.google.com/file/d/1xSb_YATKgXdQOzpzWSOx_XxwG6UeZxMR/view?usp=sharing">resume</a>
+   href="https://drive.google.com/file/d/1R1ARdAK7rEfltUVXUh4n-tosqZOnotOR/view?usp=sharing">resume</a>
 
 <br>
 
