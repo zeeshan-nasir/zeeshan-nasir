@@ -8,16 +8,14 @@
    
 <br>
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently learning **Full Stack Web Development**.
 
-- 📫 Reach me at **zeeeshannasir94@gmail.com**
-
-- 💬 Ask me about **MERN Stack**
+- 📫 Reach me at **zeeeshannasir94@gmail.com**.
 
 - 📄 Check out my <a
-   href="https://drive.google.com/file/d/1R1ARdAK7rEfltUVXUh4n-tosqZOnotOR/view?usp=sharing">resume</a>
+   href="https://drive.google.com/file/d/1R1ARdAK7rEfltUVXUh4n-tosqZOnotOR/view?usp=sharing">Resume.</a>
 - 📄 Check out my <a
-   href="https://zeeshan-nasir.netlify.app/">portfolio</a>
+   href="https://zeeshan-nasir.netlify.app/">Rortfolio.</a>
 <br>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"
