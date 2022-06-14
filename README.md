@@ -15,7 +15,7 @@
 - 📄 Check out my <a
    href="https://drive.google.com/file/d/1R1ARdAK7rEfltUVXUh4n-tosqZOnotOR/view?usp=sharing">Resume.</a>
 - 📄 Check out my <a
-   href="https://zeeshan-nasir.netlify.app/">Rortfolio.</a>
+   href="https://zeeshan-nasir.netlify.app/">Portfolio.</a>
 <br>
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"
