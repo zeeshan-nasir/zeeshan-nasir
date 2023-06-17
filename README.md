@@ -1,14 +1,13 @@
 <h1 align="center">Hi, I'm Zeeshan Nasir</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <br>
 
-<p align="center">Dedicated developer with a keen interest in learning new technology and building user-friendly
-   applications. Eager to tackle web development challenges to achieve a lasting impact on user experience.</p>
+<p align="center">Seasoned web developer with a knack for building scalable apps, pixel-perfect UIs, and years of experience in building complex web applications. Currently, I am working as an SDE-I at Attentive AI, where I am leading the frontend development for the AutoMeasure product, which automates property measurement using aerial imagery and blueprint plans.
+
+It utilizes the JavaScript libraries such as React.js and OpenLayers.</p>
    
 <br>
-
-- 🌱 I’m currently learning **Full Stack Web Development**.
 
 - 📫 Reach me at **zeeeshannasir94@gmail.com**.
 
@@ -84,5 +83,3 @@
 </div>
 
 <br/>  
-
-![zeeshan-nasir's github activity graph](https://activity-graph.herokuapp.com/graph?username=zeeshan-nasir&theme=nord) 
