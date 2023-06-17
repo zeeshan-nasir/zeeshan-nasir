@@ -3,9 +3,9 @@
 
 <br>
 
-<p align="center">Seasoned web developer with a knack for building scalable apps, pixel-perfect UIs, and years of experience in building complex web applications. Currently, I am working as an SDE-I at Attentive AI, where I am leading the frontend development for the AutoMeasure product, which automates property measurement using aerial imagery and blueprint plans.
+<p align="center">Seasoned web developer with a knack for building scalable apps, pixel-perfect UIs, and years of experience in building complex web applications. Currently, I am working as an SDE-I at Attentive AI, where I am leading the frontend development for the AutoMeasure product, which automates property measurement using aerial imagery and blueprint plans.</p>
 
-It utilizes the JavaScript libraries such as React.js and OpenLayers.</p>
+<p align="center">It utilizes the JavaScript libraries such as React.js and OpenLayers.</p>
    
 <br>
 
@@ -40,9 +40,20 @@ It utilizes the JavaScript libraries such as React.js and OpenLayers.</p>
       rel="noreferrer"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
          alt="javascript" width="60" height="60" /> </a>
-   <a style="margin: 0px 20px;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+     <a style="margin: 0px 20px;" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
          alt="react" width="60" height="60" /> </a>
+    <a style="margin: 0px 20px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
+         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> </a>
+   <a style="margin: 0px 20px;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+         alt="html5" width="60" height="60" /> </a>
+   <a style="margin: 0px 20px;" href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
+         width="60" height="60" /> </a>
+   <a style="margin: 0px 20px;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+         alt="bootstrap" width="60" height="60" /></a>
    <a style="margin: 0px 20px;" href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
          alt="nodejs" width="60" height="60" /> </a>
@@ -55,31 +66,5 @@ It utilizes the JavaScript libraries such as React.js and OpenLayers.</p>
    <a style="margin: 0px 20px;" href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
          alt="express" width="60" height="60" /> </a>
-   <a style="margin: 0px 20px;" href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60" /> </a>
-   <a style="margin: 0px 20px;" href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-         alt="html5" width="60" height="60" /> </a>
-   <a style="margin: 0px 20px;" href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux"
-         width="60" height="60" /> </a>
-   <a style="margin: 0px 20px;" href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-         alt="bootstrap" width="60" height="60" /></a>
+  
 </p>
-
-<br>
-
-<h2 align="center">Github Stats:</h2>
-<p align="center"> <img
-      src="https://komarev.com/ghpvc/?username=zeeshan-nasir&label=Profile%20views&color=0e75b6&style=flat"
-      alt="zeeshan-nasir" /> </p>
-      
-<br>
-
-<div align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=zeeshan-nasir&show_icons=true&locale=en&theme=tokyonight" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=zeeshan-nasir&theme=tokyonight" />
-</div>
-
-<br/>  
